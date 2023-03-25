@@ -8,7 +8,7 @@ Passionate about software development, especially in the backend.
 
 - 🌱 I’m currently learning **React and NestJs**
 
-- 💬 Ask me about **Python, Django, Javascrip, Express**
+- 💬 Ask me about **Python, Django, Javascript, Express**
 
 - 📫 How to reach me **guilherme16.gon@gmail.com**
 <h3 align="left">Languages</h3>
