@@ -1,3 +1,28 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99030229/227739215-70e05585-f424-4c82-bc70-af07dab2c898.png" width="400" height="400">
+  <p align="center">
+    <a href="https://www.linkedin.com/in/guilhermegonsoares/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Badge"
+    />
+  </a>
+  <a href="https://www.instagram.com/__guig0/">
+    <img
+      src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram Badge"
+    />
+  </a>
+  <a href="mailto:guilherme16.gon@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail Badge"
+    />
+  </a>
+   </p>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Guilherme Soares</h1>
 
 ## About Me:
@@ -165,24 +190,4 @@ Passionate about software development, especially in the backend.
     src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegonsoares&show_icons=true&locale=en&layout=compact"
     alt="guilhermegonsoares"
   />
-  <p align="center">
-    <a href="https://www.linkedin.com/in/guilhermegonsoares/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn Badge"
-      />
-    </a>
-    <a href="https://www.instagram.com/__guig0/">
-      <img
-        src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram Badge"
-      />
-    </a>
-    <a href="mailto:guilherme16.gon@gmail.com">
-      <img
-        src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Gmail Badge"
-      />
-    </a>
-  </p>
 </p>
