@@ -23,7 +23,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Guilherme Soares</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Gonçalves</h1>
 
 ## About Me:
 
