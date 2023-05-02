@@ -187,7 +187,7 @@ Passionate about software development, especially in the backend.
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegonsoares&show_icons=true&locale=en&layout=compact&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegonsoares&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark"
     alt="guilhermegonsoares"
   />
 </p>
