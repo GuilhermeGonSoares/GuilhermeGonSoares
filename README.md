@@ -26,13 +26,14 @@
 <h1 align="center">Hi 👋, I'm Guilherme Gonçalves</h1>
 
 <h3 align="left">Languages</h3>
-<img
+
+<p align="left">
+  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40"
     />
-<p align="left">
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
       alt="java"
