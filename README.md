@@ -56,38 +56,31 @@
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+      alt="dotnet-core"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+      alt="spring-boot"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
+      alt="nestjs"
+      width="40"
+      height="40"
+    />
+<img
       src="https://cdn.worldvectorlogo.com/logos/django.svg"
       alt="django"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
+
 </p>
 
 <h3 align="left">Database</h3>
