@@ -25,17 +25,6 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Gonçalves</h1>
 
-## About Me:
-
-Passionate about software development, especially in the backend.
-
-- ❤️ in love with Typescript and React
-
-- 🌱 I’m currently learning **React and NestJs**
-
-- 💬 Ask me about **Python, Django, Javascript, Express**
-
-- 📫 How to reach me **guilherme16.gon@gmail.com**
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
