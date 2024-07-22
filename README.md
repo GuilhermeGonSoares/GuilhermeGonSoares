@@ -25,8 +25,10 @@
 
 <h1 align="center">Hi 👋, I'm Guilherme Gonçalves</h1>
 
-<h3 align="left">Languages</h3>
 
+<p>🌱 I’m currently learning: Quarkus - Java framework</p>
+
+<h3 align="left">Languages</h3>
 <p align="left">
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
